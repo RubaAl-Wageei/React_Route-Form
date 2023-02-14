@@ -1,0 +1,15 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+
+
+.form{
+    margin: 150px 250px;
+    padding: 50px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    
+}
+
+.form-outline{
+    border: 1px solid lightgrey;
+    border-radius: 7px;
+}
